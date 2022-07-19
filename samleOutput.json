@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Russia resumes long-range bombardment of Ukrainian cities - Reuters.com",
+            "description": "Russian forces shelled the southern Ukrainian city of Nikopol on Saturday, the latest in a series of bombardments of urban areas that has killed at least 37 people in the last three days and wounded scores.",
+            "url": "https://www.reuters.com/world/europe/warning-sirens-sound-ukraines-capital-russia-steps-up-bombardment-2022-07-16/",
+            "urlToImage": "https://www.reuters.com/resizer/Tj5SWKur9Alvr90qBtbnjFS5D1E=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NSX7MQEKXVIYFCZVYD27TCFOEI.jpg",
+            "publishedAt": "2022-07-16T07:51:00Z",
+            "content": "KYIV, July 16 (Reuters) - Russian forces shelled the southern Ukrainian city of Nikopol on Saturday, the latest in a series of bombardments of urban areas that has killed at least 37 people in the la… [+4759 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Reporter"
+            },
+            "author": "Chris Gardner",
+            "title": "Hollywood Insiders Mourn Passing of Jak Knight at 28: “A Painful Loss to Comedy” - Hollywood Reporter",
+            "description": "Jak Knight’s death sent shockwaves through Hollywood on Friday as word spread of his untimely passing at age 28. Originally from Seattle and based in L.A., Knight was a regular on the stand-up stage and collected many admirers, friends and fans during a brief…",
+            "url": "https://www.hollywoodreporter.com/tv/tv-news/jak-knight-death-mourned-hollywood-1235181565/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2022/07/GettyImages-872311070.jpg?w=1024",
+            "publishedAt": "2022-07-16T06:01:28Z",
+            "content": "Jak Knight’s death sent shockwaves through Hollywood on Friday as word spread of his untimely passing at age 28.\r\nOriginally from Seattle and based in L.A., Knight was a regular on the stand-up stage… [+5220 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Lawrence Richard",
+            "title": "Massive 21-car pileup in Montana leaves at least 6 dead: 'Mass casualty crash' - Fox News",
+            "description": "Severe winds and low visibility caused by a storm are believed to be the cause behind a 21-vehicle crash in Montana, killing at least six people.",
+            "url": "https://www.foxnews.com/us/dead-montana-massive-car-pileup-mass-casualty-crash",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/07/AP22197085170461.jpg",
+            "publishedAt": "2022-07-16T05:33:40Z",
+            "content": "At least six people are dead in Montana after a wind storm caused 21 vehicles to crash together on the highway Friday evening, authorities said.\r\nThe storms' heavy winds and zero visibility are belie… [+2174 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "San Francisco Chronicle"
+            },
+            "author": "Annie Vainshtein",
+            "title": "Bomb threat forces evacuations at SFO; suspect detained - San Francisco Chronicle",
+            "description": "Travelers were ordered to evacuate the international terminal at the San Francisco...",
+            "url": "https://www.sfchronicle.com/bayarea/article/Bomb-threat-forces-evacuations-at-SFO-suspect-17309103.php",
+            "urlToImage": "https://s.hdnux.com/photos/01/26/47/73/22707945/3/rawImage.jpg",
+            "publishedAt": "2022-07-16T05:19:57Z",
+            "content": "This is a carousel. Use Next and Previous buttons to navigate\r\n1of5People gather by a police line after a bomb threat forced an evacuation of the international terminal at San Francisco International… [+1715 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "HotNewHipHop"
+            },
+            "author": "Hayley Hynes",
+            "title": "Kodak Black Reported Arrest Update: Cops Allegedly Found 30+ Oxycodone Pills & +$70K Cash - HotNewHipHop",
+            "description": "Fox Sports journalist Andy Slater claims to have heard the news from \"multiple sources.\"",
+            "url": "https://www.hotnewhiphop.com/kodak-black-reported-arrest-update-cops-allegedly-found-30-oxycodone-pills-and-s70k-cash-news.155098.html",
+            "urlToImage": "https://www.hotnewhiphop.com/image/740x416/cover/1657944238_84ca8d779babdab20dc5157db94a256c.jpg/f0da5d63fd732e5ddbdaf591d647dee9/1657944238_fd64174f0bdbdc10b4b28471e4b515bc.jpg",
+            "publishedAt": "2022-07-16T04:29:00Z",
+            "content": "As we previously reported, rumours began swirling around online earlier today (July 15) that 25-year-old Kodak Black has been taken into police custody after being stopped by Florida Highway Patrol o… [+1395 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBC Southern California"
+            },
+            "author": "Heather Navarro, City News Service",
+            "title": "2 Arrested in Five-Hour 7-Eleven Crime Spree That Left 2 Dead, Others Hurt - NBC Southern California",
+            "description": "A suspected gunman accused of going on an hourslong pre-dawn crime spree at multiple 7-Eleven stores across Southern California, leaving two dead and others…",
+            "url": "https://www.nbclosangeles.com/news/local/7-eleven-gunman-arrested/2939288/",
+            "urlToImage": "https://media.nbclosangeles.com/2019/09/7Eleven4.jpg?quality=85&strip=all&fit=1200%2C662",
+            "publishedAt": "2022-07-16T04:02:47Z",
+            "content": "Two people have been arrested in an hourslong pre-dawn crime spree at multiple 7-Eleven stores across Southern California, leaving two dead and others seriously injured, the Orange County District At… [+4984 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": null,
+            "title": "Ivana Trump's death ruled an accident, medical examiner says - POLITICO",
+            "description": "Police had been looking into whether she fell down the stairs.",
+            "url": "https://www.politico.com/news/2022/07/15/ivana-trumps-death-ruled-an-accident-medical-examiner-says-00046201",
+            "urlToImage": "https://static.politico.com/ba/c1/bc87410e403c8aafd470fc00b169/20220714-ivanatrump-ap-773.jpg",
+            "publishedAt": "2022-07-16T03:23:42Z",
+            "content": "Her son Eric Trump said it was a very sad day, a very sad day, as he left the home Thursday.\r\nA Czech-born ski racer and businesswoman, Ivana Trump was born Ivana Zelnickova in 1949.\r\nShe was married… [+913 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Beast"
+            },
+            "author": "David Axe",
+            "title": "'Shock' Monkeypox Screw-Up Means We Now Face Two Pandemics - The Daily Beast",
+            "description": "We’ve already let monkeypox spiral out of control. In order to prevent millions of infections, it is time to admit this is another pandemic.",
+            "url": "https://www.thedailybeast.com/shocking-monkeypox-screw-up-means-we-need-to-admit-we-now-face-two-pandemics",
+            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1657883946/071522-axe-monkeypox-hero_xfv5wa",
+            "publishedAt": "2022-07-16T03:06:43Z",
+            "content": "We blew our chance to quickly contain monkeypox. Now the dangerous virus is spreading fast all over the world.\r\nHealth experts agree: the outbreak could soon qualify as a pandemic, if it doesnt alrea… [+8039 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "wwe.com"
+            },
+            "author": null,
+            "title": "SmackDown: July 15, 2022 - WWE",
+            "description": "In a turbulent SmackDown main event, Angelo Dawkins overcame Jimmy Uso in a battle for SummerSlam momentum after the official failed to see that Jimmy’s shoulder was off the mat. Moments later, WWE Official Adam Pearce named Jeff Jarrett to be the Special Gue…",
+            "url": "http://www.wwe.com/shows/smackdown/2022-07-15",
+            "urlToImage": "https://www.wwe.com/f/styles/og_image/public/all/2022/07/20220715_SD_final2--79ba24ff6f0ba6b473688d52b0bca09e.jpg",
+            "publishedAt": "2022-07-16T02:41:52Z",
+            "content": "Pat McAfee returned to SmackDown looking for retribution on Happy Corbin at SummerSlam\r\nLiv Morgan def. Natalya\r\nAfter Natalya took credit for Liv Morgan's SmackDown Women's Title victory during a fa… [+2897 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investor's Business Daily"
+            },
+            "author": "Investor's Business Daily",
+            "title": "Dow Jones Futures: Market Rally Bends But Doesn't Break; Big Week For Tesla, EV Rival - Investor's Business Daily",
+            "description": "The indexes pared weekly losses. Tesla and EV rival BYD have big news due.",
+            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-bends-but-doesnt-break-big-week-for-tesla-ev-rival/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2018/05/Stock-bullBearFrankfurt-01-adobe.jpg",
+            "publishedAt": "2022-07-16T01:26:00Z",
+            "content": "Dow Jones futures will open Sunday evening, along with S&amp;P 500 futures and Nasdaq futures. The stock market rally fell last week, but the major indexes slashed losses by Friday's close, with the … [+11094 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Elsie Boskamp, Jon Winkler, Jillian Lucas, Kasey Caminiti and Jennifer Ernst Beaudry, USA TODAY",
+            "title": "Prime Day 2022: Shop 110+ best post-Prime Day deals at Amazon - USA TODAY",
+            "description": "If you missed Prime Day 2022, Amazon still has over 110 deals on home essentials, tech, style and more available now.",
+            "url": "https://www.usatoday.com/story/money/reviewed/2022/07/15/new-amazon-prime-day-sale-deals-2022/10063205002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2022/07/14/USAT/eb6450e1-077b-4b8f-af16-b476f13b04c3-Amazon_Prime_Day_deals_71522.jpg?auto=webp&crop=4779,2689,x0,y0&format=pjpg&width=1200",
+            "publishedAt": "2022-07-16T01:15:39Z",
+            "content": "— Recommendations are independently chosen by Reviewed’s editors. Purchases you make through our links may earn us a commission.\r\nWe're at the end of the week and the end of another Amazon Prime Day.… [+10776 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Erin Keller",
+            "title": "'Stranger Things' star Noah Schnapp opens up about Will's long-simmering sexuality - New York Post ",
+            "description": "“I think it was really wholesome,” Schnapp said about his “Stranger Things” character’s arc.",
+            "url": "https://nypost.com/2022/07/15/stranger-things-star-noah-schnapp-opens-up-about-wills-sexuality/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/07/StrangerThings_StrangerThings4_9_00_11_33_07-copy.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2022-07-16T01:11:00Z",
+            "content": "WARNING: “Stranger Things” Season 4 spoilers are ahead. \r\nNoah Schnapp is busting down the closet door for his character Will Byers in the hit Netflix series “Stranger Things.” \r\nThe 17-year-old acto… [+2713 chars]"
+        },
+        {
+            "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "Mashable Team",
+            "title": "'Wordle' today: Here's the answer, hints for July 16 - Mashable",
+            "description": "Stuck on 'Wordle' #392? We're here to help with tips, clues, and the answer. Spoilers within.",
+            "url": "https://mashable.com/article/wordle-today-answer-july-16",
+            "urlToImage": "https://helios-i.mashable.com/imagery/articles/00Y3X3M0Z5Men2zrlHpXsW7/hero-image.fill.size_1200x675.v1657885923.jpg",
+            "publishedAt": "2022-07-16T01:08:36Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Heather Chen, CNN",
+            "title": "Sri Lanka crisis: How do you fix a broken country? - CNN",
+            "description": "Gotabaya Rajapaksa may be gone, but Sri Lanka is still struggling with a ruinous financial crisis, and experts said things are likely to get worse before they get better.",
+            "url": "https://www.cnn.com/2022/07/15/asia/sri-lanka-crisis-economy-fix-gotabaya-rajapaksa-saturday-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220714232139-02-sri-lanka-crisis-how-do-you-fix-a-broken-country-restricted-super-tease.jpg",
+            "publishedAt": "2022-07-16T00:53:00Z",
+            "content": "By Heather Chen, CNN\r\nUpdated 8:53 PM ET, Fri July 15, 2022\r\n (CNN)For years it had been one of Sri Lanka's grandest and most heavily guarded buildings, serving as the official residence and state of… [+10719 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Biden confronts Saudi crown prince over Khashoggi murder, expects action on energy - Reuters",
+            "description": "U.S. President Joe Biden said on Friday he told Saudi Arabia's Crown Prince Mohammed bin Salman he held him responsible for the murder of Washington Post journalist Jamal Khashoggi, shortly after exchanging a fist bump with the kingdom's de facto ruler.",
+            "url": "https://www.reuters.com/world/middle-east/biden-heads-saudi-arabia-amid-tension-oil-khashoggi-killing-2022-07-15/",
+            "urlToImage": "https://www.reuters.com/resizer/x9_jNAVe0jmHQzeVPGdo6aAJYg0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5AAES2MY4JNBBKQDSL52PODJ7Q.jpg",
+            "publishedAt": "2022-07-16T00:41:00Z",
+            "content": "JEDDAH, Saudi Arabia, July 15 (Reuters) - U.S. President Joe Biden said on Friday he told Saudi Arabia's Crown Prince Mohammed bin Salman he held him responsible for the murder of Washington Post jou… [+6887 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Lora Kolodny, Jonathan Vanian",
+            "title": "Elon Musk asks court to reject Twitter's request for speedy trial - CNBC",
+            "description": "Musk's team says the trial should wait until next year, after Twitter requested expedited treatment and a hearing as early as September 2022.",
+            "url": "https://www.cnbc.com/2022/07/15/elon-musk-asks-court-to-reject-twitters-request-for-speedy-trial.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107063491-16529089492022-05-18t210710z_1773411046_rc2w9u9z7ee9_rtrmadp_0_tesla-musk.jpeg?v=1655979407&w=1920&h=1080",
+            "publishedAt": "2022-07-16T00:10:00Z",
+            "content": "Elon Musk wants time to prepare for a trial over his contentious withdrawal from an agreement to buy Twitter for $44 billion, according to a filing in a Delaware chancery court by his attorneys on Fr… [+1134 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "E. Eduardo Castillo",
+            "title": "Mexico captures infamous drug lord Rafael Caro Quintero - The Associated Press - en Español",
+            "description": "MEXICO CITY (AP) — Infamous drug lord Rafael Caro Quintero, who was behind the killing of a U.S. DEA agent in 1985, was captured Friday by Mexican forces nearly a decade after walking out of a Mexican prison and returning to drug trafficking, Mexico's navy sa…",
+            "url": "https://apnews.com/article/drug-lord-rafael-caro-quintero-captured-mexico-dea-7ff3005d4c848697458d73c669a72e6f",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/a6396f4b72cf46beaf58dbfdab7e66d3/2520.jpeg",
+            "publishedAt": "2022-07-16T00:02:16Z",
+            "content": "MEXICO CITY (AP) Infamous drug lord Rafael Caro Quintero, who was behind the killing of a U.S. DEA agent in 1985, was captured Friday by Mexican forces nearly a decade after walking out of a Mexican … [+6092 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MLB Trade Rumors"
+            },
+            "author": "Anthony Franco",
+            "title": "MLB To Pay $185MM To Settle Class Action Minor League Suit - MLB Trade Rumors",
+            "description": "Major League Baseball is set to pay $185MM to settle the class action lawsuit brought by minor league players nearly &hellip;",
+            "url": "https://www.mlbtraderumors.com/2022/07/mlb-to-pay-185mm-to-settle-class-action-minor-league-suit.html",
+            "urlToImage": "https://cdn.mlbtraderumors.com/files/2022/06/USATSI_18028062-1024x683.jpg",
+            "publishedAt": "2022-07-16T00:01:14Z",
+            "content": "Major League Baseball is set to pay $185MM to settle the class action lawsuit brought by minor league players nearly a decade ago, as Jeff Passan of ESPN was first to report. Evan Drellich of the Ath… [+3069 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Deirdre Reilly",
+            "title": "Sobering new study says that those under age 40 shouldn't drink alcohol at all - Fox News",
+            "description": "New study from Institute for Health Metrics and Evaluation in Seattle reveals that risk of sickness, accident and death far outweigh any benefits of alcohol consumption for those under 40.",
+            "url": "https://www.foxnews.com/lifestyle/sobering-study-under-age-40-shouldnt-drink-alcohol",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/11/Woman-Drinking-Wine.jpg",
+            "publishedAt": "2022-07-15T23:39:14Z",
+            "content": "A new study shares surprising recommendations for people under age 40. \r\nThe study is essentially encouraging young people to put down that gorgeous summer cocktail or delicious beer right this minut… [+5393 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Emily Anthes",
+            "title": "Demand for Monkeypox Vaccine Exceeds Supply, C.D.C. Says - The New York Times",
+            "description": "The United States has ordered nearly seven million doses in total, but most of them will not arrive for months.",
+            "url": "https://www.nytimes.com/2022/07/15/health/monkeypox-vaccine-supply.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/07/15/science/15monkeypox1/15monkeypox1-facebookJumbo.jpg",
+            "publishedAt": "2022-07-15T23:16:24Z",
+            "content": "Jynneos, the only vaccine approved by the F.D.A. specifically for monkeypox, is given in two doses, 28 days apart. It is made by Bavarian Nordic, a small company in Denmark, and its global supply has… [+1371 chars]"
+        }
+    ]
+}
