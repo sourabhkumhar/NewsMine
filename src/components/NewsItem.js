@@ -5,7 +5,7 @@ export class NewsItem extends Component {
         let { title, description, imageUrl, newsUrl, date, time, sourceName } = this.props;
         return (
             <div className="card my-3">
-                <img src={imageUrl ? imageUrl : "https://www.navarrenewspaper.com/wp-content/uploads/2020/09/breaking-news-blog-1138x658-1.jpg"} className="card-img-top" alt="News Image" />
+                <img src={imageUrl ? imageUrl : "https://www.navarrenewspaper.com/wp-content/uploads/2020/09/breaking-news-blog-1138x658-1.jpg"} className="card-img-top" alt="news" />
                 <div className="card-body" align="left">
                     <span className='d-flex justify-content-between'>
                         <span>{date + " " + time}</span>

@@ -39,14 +39,6 @@
 }
 
 .mySpinnerDesign {
-  position: fixed;
-  padding-top: 300px;
-  top: 0%;
-  right: 0px;
-  width: 100%;
-  height: 100%;
-  z-index: 1;
-  background-color: #282c3476;
   animation: myanimation 5s infinite;
 }
 
