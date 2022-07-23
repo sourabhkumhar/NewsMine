@@ -33,56 +33,48 @@ export class News extends Component {
     document.title = `${this.capatilize(this.props.category)} - NewsMine`;
   }
 
-  async updateNews() {
-    const url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=0341080f799a4e5b9438cb005d2e049c&page=${this.state.page}&pageSize=${this.props.pageSize}`;
-
-    this.setState({ loading: true })
-
+  updateNews = async (page) => {
+    this.props.setProgress(10);
+    const url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=${this.props.apiKey}&page=${this.state.page + page}&pageSize=${this.props.pageSize}`;
+    
+    this.props.setProgress(30);
     let data = await fetch(url);
     let parsedData = await data.json();
-    this.setState({
-      articles: parsedData.articles,
-      totalResults: parsedData.totalResults,
-      loading: false,
-    })
-  }
-
-  async componentDidMount() {
-    this.updateNews();
-  }
-
-  fetchMoreData = async () => {
-    this.setState({ page: this.state.page + 1 });
-    const url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=0341080f799a4e5b9438cb005d2e049c&page=${this.state.page + 1}&pageSize=${this.props.pageSize}`;
-
-    let data = await fetch(url);
-    let parsedData = await data.json();
+    this.props.setProgress(70);
     this.setState({
       articles: this.state.articles.concat(parsedData.articles),
       totalResults: parsedData.totalResults
     })
+    this.props.setProgress(100);
+  }
+
+  async componentDidMount() {
+    this.updateNews(0);
+  }
+
+  fetchMoreData = async () => {
+    this.setState({ page: this.state.page + 1 });
+    this.updateNews(1)
   };
-
-
+  
+  
   render() {
     return (
-      <>
+      <>        
         <h1 className='text-center my-3'>{this.capatilize(this.props.category)} - Top HeadLines</h1>
 
         <hr />
 
-
         <InfiniteScroll
           dataLength={this.state.articles.length}
           next={this.fetchMoreData}
-          hasMore={this.state.articles.length !== this.totalResults}
+          hasMore={this.state.articles.length !== this.state.totalResults}
           loader={<Spinner />}
         >
-
           <div className="container">
 
             <div className="row justify-content-around" align="center">
-              {this.state.articles?.map((element) => {
+              {this.state.articles.map((element) => {
                 return <div key={element.url} className="col-md-6 col-lg-4 col-xl-3">
                   <NewsItem title={element.title ? element.title.slice(0, 50) : "Title is not available"} description={element.description ? element.description.slice(0, 100) : "Description is not available. Click on read more to read full article"} imageUrl={element.urlToImage} newsUrl={element.url} date={element.publishedAt ? element.publishedAt.slice(0, 10) : "Date isn't available"} time={element.publishedAt ? element.publishedAt.slice(11, 19) : "Time isn't available"} sourceName={element.source.name ? element.source.name : "Unknown"} />
 
